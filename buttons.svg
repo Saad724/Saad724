@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="80">
+    <style>
+  .button-wrapper {
+    display: flex;
+    gap: 10px;
+  }
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    min-width: 120px;
+    cursor: pointer;
+  }
+
+  button img {
+    width: 20px;
+    height: 20px;
+  }
+
+  .portfolio {
+    background-color: blueviolet;
+  }
+
+  .linkedin {
+    background-color: rgb(228, 152, 53);
+  }
+
+  .insta {
+    background-color: rgb(228, 53, 155);
+  }
+</style>
+
+<div class="button-wrapper">
+  <button class="portfolio">
+    <img
+      src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png"
+    />
+    Portfolio
+  </button>
+  <button class="linkedin">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /> Linked
+    In
+  </button>
+  <button class="insta">
+    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" /> Linked
+    In
+  </button>
+</div>
+</svg>
