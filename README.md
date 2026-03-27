@@ -6,7 +6,7 @@
 
 <p align="center">
 <samp>
-I'm Saad, a Senior Software Engineer specializing in full stack development with React, Next.js, React Native, and Node.js. I have over 6 years of professional experience in building softwares. <br />I help startups and established businesses solve real operational and growth challenges by building custom digital tools from high performance web applications to scalable cross platform mobile apps. <br /> My focus is on creating solutions that streamline workflows, improve user experience, and enable businesses to attract and convert more customers online. 
+I'm Saad, a Senior Software Engineer specializing in full stack development with React, Next.js, React Native, and Node.js. I have over 6 years of professional experience in building softwares. <br />I help startups and established businesses solve real operational and growth challenges by building custom digital tools from high performance web applications to scalable cross platform mobile apps.
 </samp>
 </p>
 
