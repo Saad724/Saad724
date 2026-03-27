@@ -6,14 +6,12 @@
 
 <p align="center">
 <samp>
-I'm an experience Full Stack Web and Mobile app developer. I am constantly expanding my expertise in web development. With a diverse skill set, I aim to contribute innovatively to every project.<br/>
-"---Its a difference of just one try between Success and Failure---"
+I'm Saad, a Senior Software Engineer specializing in full stack development with React, Next.js, React Native, and Node.js. I have over 6 years of professional experience in building softwares. I help startups and established businesses solve real operational and growth challenges by building custom digital tools from high performance web applications to scalable cross platform mobile apps. My focus is on creating solutions that streamline workflows, improve user experience, and enable businesses to attract and convert more customers online. 
 </samp>
 </p>
 
 ## About Me
 - 🔭 I’m currently working on MERN Stack and React Native
-- 🌱 I’m currently learning Nest Js
 - 📫 How to reach me: https://www.upwork.com/freelancers/~01750721ee62c60492
 
 <p align="center">
