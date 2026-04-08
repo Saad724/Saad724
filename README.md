@@ -15,10 +15,10 @@ I'm Saad, a Senior Software Engineer specializing in full stack development with
 - 📫 How to reach me: https://www.upwork.com/freelancers/~01750721ee62c60492
 
 <p align="center">
- <a href="https://dev-saad.netlify.app/" target="blank">
+ <a href="https://codexapk.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"/>
  </a>
- <a href="https://www.linkedin.com/in/dev-saad/" target="_blank">
+ <a href="https://www.linkedin.com/in/saad-codes/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://www.instagram.com/_.being.sid" target="_blank">
